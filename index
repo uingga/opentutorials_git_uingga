@@ -1,18 +1,17 @@
 <html>
-<<<<<<< HEAD
 	<head>
 		<title>
 			Git 소개
 		</title>
 	</head>
-=======
-<head></head>
->>>>>>> 실험
 	<body>
 		<header>
-			<h1>Git</h1>
+			<h1></h1>
 		</header>
 		<ul>
+			<li>Git 소개</li>
+			<li>버전</li>
+			<li>브랜치</li>
 		</ul>
 	</body>
 </html>
